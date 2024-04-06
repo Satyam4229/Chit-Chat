@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06484221.css",
+    "main.js": "/static/js/main.c5993ccf.js",
+    "static/media/CHIT.png": "/static/media/CHIT.505f2b896a3b5787b42e.png",
+    "index.html": "/index.html",
+    "main.06484221.css.map": "/static/css/main.06484221.css.map",
+    "main.c5993ccf.js.map": "/static/js/main.c5993ccf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06484221.css",
+    "static/js/main.c5993ccf.js"
+  ]
+}
